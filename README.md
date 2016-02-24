@@ -1,6 +1,8 @@
 [![Gitter](https://badges.gitter.im/Pezhvak/Laravel-SMS.svg)](https://gitter.im/Pezhvak/Laravel-Localization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # laravel-localization
+
+[![Join the chat at https://gitter.im/ImmortalVision/laravel-localization](https://badges.gitter.im/ImmortalVision/laravel-localization.svg)](https://gitter.im/ImmortalVision/laravel-localization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Detect locale and localize your application based on that
 
 ![Laravel 5.2](https://img.shields.io/badge/Laravel-5.2-f4645f.svg)
