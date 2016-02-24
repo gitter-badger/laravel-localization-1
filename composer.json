@@ -1,0 +1,22 @@
+{
+  "name": "immortalvision/laravel-localization",
+  "keywords": ["laravel", "locale", "localization", "translation", "layout"],
+  "description": "Laravel SMS Service Provider",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pezhvak IMV",
+      "email": "pezhvakimv@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "5.0.x|5.1.x|5.2.x"
+  },
+  "autoload": {
+    "psr-4": {
+      "ImmortalVision\\localization\\": "src/"
+    }
+  }
+}
